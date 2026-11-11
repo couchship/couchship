@@ -1,2 +1,3 @@
-# pocketpane
-Control Claude Code from your phone. Open source.
+# Couchship
+
+**Ship from your couch.** Control Claude Code from your phone. Open source.
